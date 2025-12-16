@@ -22,7 +22,12 @@ I bridge the gap between academic theory and production-ready code. Based in **G
 ---
 
 ### Contribution Activity
-![Snake animation](https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=kt-NicoHartmann&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+![Snake animation](https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?v=1)
 
 ---
 
