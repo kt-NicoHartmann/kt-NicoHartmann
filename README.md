@@ -27,7 +27,7 @@ I bridge the gap between academic theory and production-ready code. Based in **G
   <img src="https://streak-stats.demolab.com/?user=kt-NicoHartmann&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?v=1)
+![Snake animation](https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?v=2)
 
 ---
 
