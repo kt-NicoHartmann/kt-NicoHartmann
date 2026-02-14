@@ -2,8 +2,13 @@
 
 **Lecturer | Software Developer | Tech Enthusiast**
 
-[![Website](https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nicohartmann.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicohartmann-dev) 
+<a href="https://nicohartmann.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+</a>
+
+<a href="https://www.linkedin.com/in/nicohartmann-dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
 
 ---
 
@@ -27,7 +32,7 @@ I bridge the gap between academic theory and production-ready code. Based in **G
   <img src="https://streak-stats.demolab.com/?user=kt-NicoHartmann&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?v=2)
+![Snake animation](https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?vv=22)
 
 ---
 
