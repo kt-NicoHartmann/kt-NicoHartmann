@@ -1,13 +1,5 @@
 <h2 align="left">Hi 👋! My name is Nico Hartmann and I'm a Lecturer and Software Developer, from Germany.</h2>
 
-###
-<!--
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
--->
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -23,6 +15,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+
+<a href="https://nicohartmann.dev">Check out my Website!</a>
+
 
 ###
 <!--
