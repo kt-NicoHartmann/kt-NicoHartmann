@@ -29,7 +29,7 @@ I bridge the gap between academic theory and production-ready code. Based in **G
 ### Contribution Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kt-NicoHartmann&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=kt-NicoHartmann" height="220" alt="streak graph"  />
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?vv=22)
