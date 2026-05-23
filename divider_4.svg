@@ -1,7 +1,7 @@
 <svg width="800" height="60" viewBox="0 0 800 60" fill="none" xmlns="http://www.w3.org/2000/svg">
   <!-- TRACKS & CONNECTIONS -->
   <path d="M 0 30 L 800 30" stroke="#30363d" stroke-width="2"/>
-  <path d="M 0 30 L 220 30 M 340 30 L 460 30 M 580 30 L 800 30" stroke="#8b949e" stroke-width="2"/>
+  <path d="M 0 30 L 220 30 M 340 30 L 460 30 M 580 30 L 800 30" stroke="#30363d" stroke-width="2"/>
   
   <!-- Upper Branch (Feature) -->
   <path d="M 220 30 Q 240 30 260 12 L 440 12 Q 460 30 480 30" stroke="#1f6feb" stroke-width="2" stroke-linecap="round"/>
