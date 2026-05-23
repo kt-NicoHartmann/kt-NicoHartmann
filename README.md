@@ -16,8 +16,11 @@
 
 <br />
 <p align="center">
-  <img src="./divider_1.svg" width="100%" alt="Git Branch Divider">
+  <picture>
+    <img src="./divider_1.svg" width="100%" alt="Git Branch Divider" style="pointer-events: none;">
+  </picture>
 </p>
+
 
 <div align="center">
   <h2>About Me</h2>
@@ -26,8 +29,11 @@
 
 <br />
 <p align="center">
-  <img src="./divider_2.svg" width="100%" alt="Git Branch Divider">
+  <picture>
+    <img src="./divider_2.svg" width="100%" alt="Git Branch Divider" style="pointer-events: none;">
+  </picture>
 </p>
+
 
 <div align="center">
   <h2>Tech Stack</h2>
@@ -86,8 +92,11 @@
 
 <br />
 <p align="center">
-  <img src="./divider_3.svg" width="100%" alt="Git Branch Divider">
+  <picture>
+    <img src="./divider_3.svg" width="100%" alt="Git Branch Divider" style="pointer-events: none;">
+  </picture>
 </p>
+
 
 <h2 align="center">Contribution Activity</h2>
 
@@ -100,21 +109,25 @@
 
 <br />
 <p align="center">
-  <img src="./divider_4.svg" width="100%" alt="Git Branch Divider">
+  <picture>
+    <img src="./divider_4.svg" width="100%" alt="Git Branch Divider" style="pointer-events: none;">
+  </picture>
 </p>
+
 
 <div align="center">
   <h2>Projects & Work</h2>
   <p>Most of my production code lives in private repositories for client and academic work. <br />
-  You can find a curated showcase of my live applications and case studies directly on my 
+  You can find a curated showcase of my projects directly on my 
   <a href="https://nicohartmann.dev/" target="_blank"><b>Website</b></a>.</p>
 </div>
 
 <br />
 <p align="center">
-  <img src="./divider_5.svg" width="100%" alt="Git Branch Divider">
+  <picture>
+    <img src="./divider_5.svg" width="100%" alt="Git Branch Divider" style="pointer-events: none;">
+  </picture>
 </p>
-
 
 <div align="center">
   <sub>Built with ❤️</sub>
