@@ -1,38 +1,87 @@
-# Hello there! 👋 I'm Nico Hartmann.
+<h1 align="center">Hello there! 👋 I'm Nico Hartmann.</h1>
 
-**Lecturer | Software Developer | Tech Enthusiast**
+<div align="center">
+  <b>Lecturer | Software Developer | Tech Enthusiast</b>
+</div>
+</br>
+<div align="center" />
+  <a href="https://nicohartmann.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/nicohartmann-dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</div>
 
-<a href="https://nicohartmann.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-</a>
+<hr />
 
-<a href="https://www.linkedin.com/in/nicohartmann-dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
+<div align="center">
+  <h2>About Me</h2>
+  <p></p>I bridge the gap between academic theory and production-ready code. Based in **Germany**, I spend my time mentoring the next generation of developers and building robust applications across the stack.</p>
+</div>
 
----
+<hr />
 
-### About Me
-I bridge the gap between academic theory and production-ready code. Based in **Germany**, I spend my time mentoring the next generation of developers and building robust applications across the stack.
+<div align="center">
+  <h2>Tech Stack</h2>
+  <table style="width: 100%; border-collapse: collapse; font-family: sans-serif;">
+    <thead>
+      <tr style="background-color: #f2f2f2; border-bottom: 2px solid #ddd;">
+        <th style="padding: 12px; text-align: left; border: 1px solid #ddd; width: 20%;">Category</th>
+        <th style="padding: 12px; text-align: left; border: 1px solid #ddd;">Tools & Languages</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px; border: 1px solid #ddd; font-weight: bold; vertical-align: middle;">Frontend</td>
+        <td style="padding: 12px; border: 1px solid #ddd; vertical-align: middle; line-height: 2;">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="vertical-align: middle;">
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px; border: 1px solid #ddd; font-weight: bold; vertical-align: middle;">Backend</td>
+        <td style="padding: 12px; border: 1px solid #ddd; vertical-align: middle; line-height: 2;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" style="vertical-align: middle;">
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px; border: 1px solid #ddd; font-weight: bold; vertical-align: middle;">Databases</td>
+        <td style="padding: 12px; border: 1px solid #ddd; vertical-align: middle; line-height: 2;">
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="T-SQL" style="vertical-align: middle;">
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px; border: 1px solid #ddd; font-weight: bold; vertical-align: middle;">DevOps</td>
+        <td style="padding: 12px; border: 1px solid #ddd; vertical-align: middle; line-height: 2;">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" style="vertical-align: middle;">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
----
-
-### Tech Stack
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Frontend** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)|
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)|
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) |
----
+<hr />
 
 ### Contribution Activity
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=kt-NicoHartmann" height="220" alt="streak graph"  />
-</div>
-<div align="center">
+
   <img src="https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?vv=22" alt"Snake animation" />
 </div>
 
