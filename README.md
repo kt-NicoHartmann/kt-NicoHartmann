@@ -21,7 +21,7 @@
 
 <div align="center">
   <h2>About Me</h2>
-  <p></p>I bridge the gap between academic theory and production-ready code. Based in **Germany**, I spend my time mentoring the next generation of developers and building robust applications across the stack.</p>
+  <p></p>I bridge the gap between academic theory and production-ready code. Based in <b>Germany</b>, I spend my time mentoring the next generation of developers and building robust applications across the stack.</p>
 </div>
 
 <br />
