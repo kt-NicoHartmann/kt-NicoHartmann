@@ -14,14 +14,20 @@
   </a>
 </div>
 
-<hr />
+<br />
+<p align="center">
+  <img src="./divider.svg" width="100%" alt="Git Branch Divider">
+</p>
 
 <div align="center">
   <h2>About Me</h2>
   <p></p>I bridge the gap between academic theory and production-ready code. Based in **Germany**, I spend my time mentoring the next generation of developers and building robust applications across the stack.</p>
 </div>
 
-<hr />
+<br />
+<p align="center">
+  <img src="./divider.svg" width="100%" alt="Git Branch Divider">
+</p>
 
 <div align="center">
   <h2>Tech Stack</h2>
@@ -75,7 +81,10 @@
   </table>
 </div>
 
-<hr />
+<br />
+<p align="center">
+  <img src="./divider.svg" width="100%" alt="Git Branch Divider">
+</p>
 
 <h2 align="center">Contribution Activity</h2>
 
@@ -86,7 +95,10 @@
   <img src="https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?vv=22" alt"Snake animation" />
 </div>
 
-<hr />
+<br />
+<p align="center">
+  <img src="./divider.svg" width="100%" alt="Git Branch Divider">
+</p>
 
 <div align="center">
   <sub>Built with ❤️</sub>
