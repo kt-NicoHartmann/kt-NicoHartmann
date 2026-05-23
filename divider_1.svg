@@ -1,0 +1,9 @@
+<svg width="800" height="60" viewBox="0 0 800 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- TRACKS & CONNECTIONS -->
+  <path d="M 0 30 L 800 30" stroke="#30363d" stroke-width="2"/>
+  <path d="M 0 30 L 220 30" stroke="#8b949e" stroke-width="2"/>
+  
+  <!-- COMMIT NODES -->
+  <!-- Main: Base branch point -->
+  <circle cx="220" cy="30" r="4.5" fill="#238636" stroke="#0d1117" stroke-width="2"/>
+</svg>
