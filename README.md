@@ -77,7 +77,7 @@
 
 <hr />
 
-### Contribution Activity
+<h2 align="center">Contribution Activity</h2>
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=kt-NicoHartmann" height="220" alt="streak graph"  />
@@ -86,7 +86,7 @@
   <img src="https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?vv=22" alt"Snake animation" />
 </div>
 
----
+<hr />
 
 <div align="center">
   <sub>Built with ❤️</sub>
