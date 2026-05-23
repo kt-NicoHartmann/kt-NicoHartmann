@@ -4,7 +4,7 @@
   <b>Lecturer | Software Developer | Tech Enthusiast</b>
 </div>
 </br>
-<div align="center" />
+<div align="center">
   <a href="https://nicohartmann.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
