@@ -54,7 +54,8 @@
         <td style="padding: 12px; border: 1px solid #ddd; font-weight: bold; vertical-align: middle;">Backend</td>
         <td style="padding: 12px; border: 1px solid #ddd; vertical-align: middle; line-height: 2;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="margin-right: 4px; vertical-align: middle;">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#">          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" style="margin-right: 4px; vertical-align: middle;">
           <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" style="vertical-align: middle;">
         </td>
       </tr>
@@ -64,7 +65,8 @@
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin-right: 4px; vertical-align: middle;">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-right: 4px; vertical-align: middle;">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 4px; vertical-align: middle;">
-          <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="T-SQL" style="vertical-align: middle;">
+          <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+          <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMTIgMkM2LjQ3NyAyIDIgMy43OSAyIDZ2MTJjMCAyLjIxIDQuNDc3IDQgMTAgNHMxMC0xLjc5IDEwLTRWNmMwLTIuMjEtNC40NzctNC0xMC00em0wIDJjNC40MTggMCA4IDEuMzQzIDggMnMtMy41ODIgMi04IDItOC0xLjM0My04LTIgMy41ODItMiA4LTJ6bTggMTRjMCAuNjU3LTMuNTgyIDItOCAycy04LTEuMzQzLTgtMnYtMi41QzUuNjA4IDE4LjQyIDguNjcgMTkgMTIgMTlzNi4zOTItLjU4IDgtMS41VjE4em0wLTVjMCAuNjU3LTMuNTgyIDItOCAycy04LTEuMzQzLTgtMnYtMi41QzUuNjA4IDEzLjQyIDguNjcgMTQgMTIgMTRzNi4zOTItLjU4IDgtMS41VjEzem0wLTVjMCAuNjU3LTMuNTgyIDItOCAycy04LTEuMzQzLTgtMlY4LjVDNS42MDggOS40MiA4LjY3IDEwIDEyIDEwczYuMzkyLS41OCA4LTEuNVY4eiIvPgo8L3N2Zz4K&logoColor=white" alt="T-SQL">
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #ddd;">
@@ -73,7 +75,7 @@
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="margin-right: 4px; vertical-align: middle;">
           <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" style="margin-right: 4px; vertical-align: middle;">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" style="margin-right: 4px; vertical-align: middle;">
-          <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=%23ffffff" alt="Windows" style="margin-right: 4px; vertical-align: middle;">
+          <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows">
         </td>
       </tr>
     </tbody>
