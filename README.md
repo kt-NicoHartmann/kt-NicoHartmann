@@ -31,8 +31,9 @@ I bridge the gap between academic theory and production-ready code. Based in **G
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=kt-NicoHartmann" height="220" alt="streak graph"  />
 </div>
-
-![Snake animation](https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?vv=22)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?vv=22" alt"Snake animation" />
+</div>
 
 ---
 
