@@ -81,7 +81,8 @@
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=kt-NicoHartmann" height="220" alt="streak graph"  />
-
+</div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?vv=22" alt"Snake animation" />
 </div>
 
