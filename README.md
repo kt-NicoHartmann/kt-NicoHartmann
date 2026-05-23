@@ -16,7 +16,7 @@
 
 <br />
 <p align="center">
-  <img src="./divider.svg" width="100%" alt="Git Branch Divider">
+  <img src="./divider_1.svg" width="100%" alt="Git Branch Divider">
 </p>
 
 <div align="center">
@@ -26,7 +26,7 @@
 
 <br />
 <p align="center">
-  <img src="./divider.svg" width="100%" alt="Git Branch Divider">
+  <img src="./divider_2.svg" width="100%" alt="Git Branch Divider">
 </p>
 
 <div align="center">
@@ -83,7 +83,7 @@
 
 <br />
 <p align="center">
-  <img src="./divider.svg" width="100%" alt="Git Branch Divider">
+  <img src="./divider_3.svg" width="100%" alt="Git Branch Divider">
 </p>
 
 <h2 align="center">Contribution Activity</h2>
@@ -97,7 +97,7 @@
 
 <br />
 <p align="center">
-  <img src="./divider.svg" width="100%" alt="Git Branch Divider">
+  <img src="./divider_4.svg" width="100%" alt="Git Branch Divider">
 </p>
 
 <div align="center">
