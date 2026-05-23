@@ -110,6 +110,7 @@
   <a href="https://nicohartmann.dev/" target="_blank"><b>Website</b></a>.</p>
 </div>
 
+<br />
 <p align="center">
   <img src="./divider_5.svg" width="100%" alt="Git Branch Divider">
 </p>
