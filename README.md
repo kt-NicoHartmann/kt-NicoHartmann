@@ -72,6 +72,7 @@
       <tr style="border-bottom: 1px solid #ddd;">
         <td style="padding: 12px; border: 1px solid #ddd; font-weight: bold; vertical-align: middle;">DevOps</td>
         <td style="padding: 12px; border: 1px solid #ddd; vertical-align: middle; line-height: 2;">
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin-right: 4px; vertical-align: middle;">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="margin-right: 4px; vertical-align: middle;">
           <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" style="margin-right: 4px; vertical-align: middle;">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" style="margin-right: 4px; vertical-align: middle;">
