@@ -21,7 +21,7 @@
 
 <div align="center">
   <h2>About Me</h2>
-  <p></p>I bridge the gap between academic theory and production-ready code. Based in <b>Germany</b>, I spend my time mentoring the next generation of developers and building robust applications across the stack.</p>
+  <p>I bridge the gap between academic theory and production-ready code. Based in <b>Germany</b>, I spend my time mentoring the next generation of developers and building robust applications across the stack.</p>
 </div>
 
 <br />
@@ -65,7 +65,7 @@
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin-right: 4px; vertical-align: middle;">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-right: 4px; vertical-align: middle;">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 4px; vertical-align: middle;">
-          <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+          <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
           <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMTIgMkM2LjQ3NyAyIDIgMy43OSAyIDZ2MTJjMCAyLjIxIDQuNDc3IDQgMTAgNHMxMC0xLjc5IDEwLTRWNmMwLTIuMjEtNC40NzctNC0xMC00em0wIDJjNC40MTggMCA4IDEuMzQzIDggMnMtMy41ODIgMi04IDItOC0xLjM0My04LTIgMy41ODItMiA4LTJ6bTggMTRjMCAuNjU3LTMuNTgyIDItOCAycy04LTEuMzQzLTgtMnYtMi41QzUuNjA4IDE4LjQyIDguNjcgMTkgMTIgMTlzNi4zOTItLjU4IDgtMS41VjE4em0wLTVjMCAuNjU3LTMuNTgyIDItOCAycy04LTEuMzQzLTgtMnYtMi41QzUuNjA4IDEzLjQyIDguNjcgMTQgMTIgMTRzNi4zOTItLjU4IDgtMS41VjEzem0wLTVjMCAuNjU3LTMuNTgyIDItOCAycy04LTEuMzQzLTgtMlY4LjVDNS42MDggOS40MiA4LjY3IDEwIDEyIDEwczYuMzkyLS41OCA4LTEuNVY4eiIvPgo8L3N2Zz4K&logoColor=white" alt="T-SQL">
         </td>
       </tr>
@@ -93,7 +93,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=kt-NicoHartmann" height="220" alt="streak graph"  />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?vv=22" alt"Snake animation" />
+  <img src="https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?vv=22" alt="Snake animation" />
 </div>
 
 <br />
