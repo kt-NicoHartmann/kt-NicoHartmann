@@ -55,6 +55,7 @@
         <td style="padding: 12px; border: 1px solid #ddd; vertical-align: middle; line-height: 2;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="margin-right: 4px; vertical-align: middle;">
           <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
+          <img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt="VB.NET" style="margin-right: 4px; vertical-align: middle;">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" style="margin-right: 4px; vertical-align: middle;">
           <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" style="vertical-align: middle;">
         </td>
