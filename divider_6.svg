@@ -1,0 +1,25 @@
+<svg width="800" height="60" viewBox="0 0 800 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- TRACKS & CONNECTIONS -->
+  <path d="M 0 30 L 800 30" stroke="#30363d" stroke-width="2"/>
+  <path d="M 0 30 L 140 30 M 260 30 L 380 30 M 500 30 L 600 30 M 600 30 L 720 30" stroke="#30363d" stroke-width="2"/>
+  
+  <!-- Left Side Compressed History -->
+  <path d="M 140 30 Q 160 30 180 12 L 360 12 Q 380 30 400 30" stroke="#1f6feb" stroke-width="2"/>
+  <path d="M 260 30 Q 280 30 300 48 L 480 48 Q 500 30 520 30" stroke="#8957e5" stroke-width="2"/>
+  <path d="M 520 30 Q 535 30 550 14 L 585 14 Q 600 30 615 30" stroke="#d29922" stroke-width="2"/>
+
+  <!-- New Long-running Purple Branch & Teal Sub-Branch -->
+  <path d="M 600 30 Q 615 30 630 48 L 780 48" stroke="#8957e5" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 670 48 Q 685 48 700 12 L 750 12" stroke="#1bc4ad" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- HISTORY NODES -->
+  <circle cx="140" cy="30" r="4" fill="#238636" stroke="#0d1117" stroke-width="1.5"/>
+  <circle cx="260" cy="30" r="4" fill="#8b949e" stroke="#0d1117" stroke-width="1.5"/>
+  <circle cx="400" cy="30" r="4" fill="#f85149" stroke="#0d1117" stroke-width="1.5"/>
+  <circle cx="520" cy="30" r="4" fill="#f85149" stroke="#0d1117" stroke-width="1.5"/>
+  <circle cx="600" cy="30" r="4" fill="#f85149" stroke="#0d1117" stroke-width="1.5"/>
+  
+  <!-- Active Commits -->
+  <circle cx="670" cy="48" r="4" fill="#8957e5" stroke="#0d1117" stroke-width="1.5"/>
+  <circle cx="730" cy="12" r="4" fill="#1bc4ad" stroke="#0d1117" stroke-width="1.5"/>
+</svg>
