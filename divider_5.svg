@@ -1,33 +1,26 @@
-<svg width="1000" height="80" viewBox="0 0 1000 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- BACKGROUND TRACKS & CONNECTIONS -->
-  <path d="M 0 40 L 1000 40" stroke="#30363d" stroke-width="2"/>
-  <path d="M 0 40 L 220 40 M 340 40 L 460 40 M 580 40 L 1000 40" stroke="#30363d" stroke-width="2"/>
+<svg width="800" height="60" viewBox="0 0 800 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- TRACKS & CONNECTIONS -->
+  <path d="M 0 30 L 800 30" stroke="#30363d" stroke-width="2"/>
+  <path d="M 0 30 L 220 30 M 340 30 L 460 30 M 580 30 L 700 30" stroke="#8b949e" stroke-width="2"/>
   
-  <!-- Upper Branch (Feature) -->
-  <path d="M 220 40 Q 240 40 260 22 L 440 22 Q 460 40 480 40" stroke="#1f6feb" stroke-width="2" stroke-linecap="round"/>
-  
-  <!-- Lower Branch (Experiment) -->
-  <path d="M 340 40 Q 360 40 380 58 L 560 58 Q 580 40 600 40" stroke="#8957e5" stroke-width="2" stroke-linecap="round"/>
+  <!-- Past Branches -->
+  <path d="M 220 30 Q 240 30 260 12 L 440 12 Q 460 30 480 30" stroke="#1f6feb" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 340 30 Q 360 30 380 48 L 560 48 Q 580 30 600 30" stroke="#8957e5" stroke-width="2" stroke-linecap="round"/>
 
-  <!-- NEW: Hotfix Branch (Startet bei 680, endet offen nach dem ersten Commit) -->
-  <path d="M 680 40 Q 700 40 720 22 L 820 22" stroke="#da5b0b" stroke-width="2" stroke-linecap="round"/>
+  <!-- New Hotfix Branch -->
+  <path d="M 600 30 Q 615 30 630 14 L 670 14 Q 685 30 700 30" stroke="#d29922" stroke-width="2" stroke-linecap="round"/>
 
   <!-- COMMIT NODES -->
-  <!-- Base & Feature -->
-  <circle cx="220" cy="40" r="4.5" fill="#238636" stroke="#0d1117" stroke-width="2"/>
-  <circle cx="290" cy="22" r="4" fill="#1f6feb" stroke="#0d1117" stroke-width="1.5"/>
-  <circle cx="370" cy="22" r="4" fill="#1f6feb" stroke="#0d1117" stroke-width="1.5"/>
+  <circle cx="220" cy="30" r="4.5" fill="#238636" stroke="#0d1117" stroke-width="2"/>
+  <circle cx="290" cy="12" r="4" fill="#1f6feb" stroke="#0d1117" stroke-width="1.5"/>
+  <circle cx="370" cy="12" r="4" fill="#1f6feb" stroke="#0d1117" stroke-width="1.5"/>
+  <circle cx="340" cy="30" r="4" fill="#8b949e" stroke="#0d1117" stroke-width="1.5"/>
+  <circle cx="420" cy="48" r="4" fill="#8957e5" stroke="#0d1117" stroke-width="1.5"/>
+  <circle cx="480" cy="30" r="4.5" fill="#f85149" stroke="#0d1117" stroke-width="2"/>
+  <circle cx="500" cy="48" r="4" fill="#8957e5" stroke="#0d1117" stroke-width="1.5"/>
+  <circle cx="600" cy="30" r="4.5" fill="#f85149" stroke="#0d1117" stroke-width="2"/>
   
-  <!-- Main Line Commits -->
-  <circle cx="340" cy="40" r="4" fill="#8b949e" stroke="#0d1117" stroke-width="1.5"/>
-  <circle cx="480" cy="40" r="4.5" fill="#f85149" stroke="#0d1117" stroke-width="2"/> <!-- Feature Merge -->
-  
-  <!-- Experiment -->
-  <circle cx="420" cy="58" r="4" fill="#8957e5" stroke="#0d1117" stroke-width="1.5"/>
-  <circle cx="500" cy="58" r="4" fill="#8957e5" stroke="#0d1117" stroke-width="1.5"/>
-  <circle cx="600" cy="40" r="4.5" fill="#f85149" stroke="#0d1117" stroke-width="2"/> <!-- Experiment Merge -->
-
-  <!-- NEW: Extension Elements -->
-  <circle cx="680" cy="40" r="4" fill="#8b949e" stroke="#0d1117" stroke-width="1.5"/> <!-- Letzter Commit auf Main -->
-  <circle cx="760" cy="22" r="4" fill="#da5b0b" stroke="#0d1117" stroke-width="1.5"/> <!-- ERSTER HOTFIX COMMIT -->
+  <!-- Hotfix Commit & Merge -->
+  <circle cx="650" cy="14" r="4" fill="#d29922" stroke="#0d1117" stroke-width="1.5"/>
+  <circle cx="700" cy="30" r="4.5" fill="#f85149" stroke="#0d1117" stroke-width="2"/>
 </svg>
