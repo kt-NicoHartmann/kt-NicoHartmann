@@ -1,0 +1,22 @@
+<svg width="220" height="50" viewBox="0 0 220 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dunkler Cyber-Hintergrund mit abgeschnittener Ecke rechts unten -->
+  <path d="M0 0H220V38L208 50H0V0Z" fill="#0d1117"/>
+  
+  <!-- Neon-Pink Rahmen -->
+  <path d="M1 1H219V37.5L207.5 49H1V1Z" stroke="#ff0055" stroke-width="2"/>
+  
+  <!-- Kleines Cyber-Dekorelement oben links -->
+  <rect x="6" y="6" width="4" height="4" fill="#ff0055"/>
+  <rect x="14" y="6" width="12" height="2" fill="#ff0055"/>
+  
+  <!-- LinkedIn-Icon (Vektorisiert) -->
+  <g transform="translate(26, 15)" fill="#ff0055">
+    <path d="M19 0h-18c-0.55 0-1 0.45-1 1v18c0 0.55 0.45 1 1 1h18c0.55 0 1-0.45 1-1v-18c0-0.55-0.45-1-1-1zm-11 17h-3v-9h3v9zm-1.5-10.27c-.97 0-1.75-.79-1.75-1.76s.78-1.75 1.75-1.75 1.75.78 1.75 1.75-.78 1.76-1.75 1.76zm11 10.27h-3v-4.6c0-1.1-.02-2.5-1.52-2.5-1.52 0-1.76 1.19-1.76 2.42v4.68h-3v-9h2.88v1.23h.04c.4-.76 1.38-1.56 2.84-1.56 3.04 0 3.6 2 3.6 4.61v4.72z"/>
+  </g>
+  
+  <!-- Text mit .com -->
+  <text x="58" y="31" fill="#ffffff" font-family="Courier New, monospace" font-size="14" font-weight="bold" letter-spacing="1">LINKEDIN.COM</text>
+  
+  <!-- Akzent-Ecke unten rechts ausgefüllt -->
+  <path d="M213 45L217 41V49H209L213 45Z" fill="#ff0055"/>
+</svg>
