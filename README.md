@@ -3,14 +3,16 @@
 <div align="center">
   <b>Lecturer | Software Developer | Tech Enthusiast</b>
 </div>
+
 </br>
 <div align="center">
   <a href="https://nicohartmann.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="./link_website.svg" alt="Website Button" width="40%">
   </a>
-  
+  <!-- Trennabstand zwischen den Buttons -->
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nicohartmann-dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="./link_linkedin.svg" alt="LinkedIn Button" width="40%">
   </a>
 </div>
 
