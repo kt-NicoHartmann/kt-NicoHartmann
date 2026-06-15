@@ -103,7 +103,7 @@
 <h2 align="center">Contribution Activity</h2>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=kt-NicoHartmann&v=1" height="220" alt="streak graph"  />
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=kt-NicoHartmann&v=3" height="220" alt="streak graph"  />
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/kt-NicoHartmann/kt-NicoHartmann/snake-output/snake.svg?vv=22" alt="Snake animation" />
